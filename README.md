@@ -1,0 +1,2 @@
+# Guitar
+Guitar Notes (Obsidian)
